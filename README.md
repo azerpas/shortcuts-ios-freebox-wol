@@ -1,6 +1,6 @@
 # shortcuts-ios-freebox-wol
 
-Tell Siri to Wake-On-Lan your PC with this iOS shortcut 💤
+Tell Siri to Wake-On-Lan your PC with this Apple shortcut 💤
 
 #### Link to the shortcut
 https://www.icloud.com/shortcuts/e66417069c7f4ad9bc61cdd614010bd1
