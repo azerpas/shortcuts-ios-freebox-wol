@@ -211,4 +211,6 @@ const wake = async (password) => {
     console.log(`Token fetched: ${token}`)
     const result = await wake(password)
     console.log(`woke: ${result}`)
+    Pasteboard.copy(result.toString())
+    Script.complete()
 })()
